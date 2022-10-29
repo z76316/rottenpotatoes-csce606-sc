@@ -1,5 +1,7 @@
 # README
 
+## The link to my app deployed on Heroku: [rottenpotatoes-csce606-sc](https://rottenpotatoes-csce606-sc.herokuapp.com/movies)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
